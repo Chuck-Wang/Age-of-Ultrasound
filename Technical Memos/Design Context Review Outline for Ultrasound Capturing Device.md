@@ -6,6 +6,8 @@
 
 **SUBJECT:        Design Context Review Outline for Ultrasound Capturing Device**
 
+** **
+
 **Existing Solutions to Ultrasound Image Capturing**
 
 After initial research, we found that there were a variety of ultrasound solutions available and being applied in low resource regions. From app-based solutions to machines that could plug into a smartphone, ultrasound systems have countless forms that are being applied in developing regions to diagnose conditions and issues. The most common practices now that are similar to our issue are laptop-based ultrasound machines as well as phone-based machines which would allow the clinics to send the actual file to specialists to analyze. [17] These solutions are beyond the scope of our design challenge because the ultrasound machines being used in the target clinics are already equipped with older machines which are not being replaced. These variants of machines solve other problems such as needing the machines to be simple to use so that trained individuals can easily operate them, being portable, and being able to directly transfer files, but none address the case of having to take a photo via a cell phone. Since these solutions no longer apply to the scope of our challenge we looked into taking photos of cathode ray tube (CRT) screens and moving objects. Issues like glare, screen distortion, refresh rate, and exposure were the most common problems and generally they were solved by changing the physical placement of the camera or post processing.
@@ -201,21 +203,16 @@ Ultrasound machines have had tremendous breakthroughs in the last few decades. E
 HowStuffWorks.com. &lt;http://electronics.howstuffworks.com/tv.htm&gt; 17 September 2017
 
 27. Portable Ultrasound Machines - KPI Healthcare
-
 http://www.kpiultrasound.com/best-ultrasound-machine/portable-ultrasound-machines/
 
 28. WTF Just Happened: My Computer Monitor Looks Awful on Camera
-
 Tim Moynihan - https://www.wired.com/2014/08/wtf-just-happened-my-computer-monitor-looks-awful-on-camera/
 
 29. Piazza, Tim. &quot;Why do pictures of screens look weird?&quot; _Quora_, 14 Feb. 2017, 
-
 www.quora.com/Why-do-pictures-of-screens-look-weird. Accessed 23 Sept. 2017.
 
 30. What&#39;s the best way to take a picture of an LCD or CRT screen?
-
 https://photo.stackexchange.com/questions/21294/whats-the-best-way-to-take-a-picture-of-an-lcd-or-crt-screen
 
 31. How to best take a picture of a screen, like a computer monitor, with a phone camera?
-
 https://photo.stackexchange.com/questions/24871/how-to-best-take-a-picture-of-a-screen-like-a-computer-monitor-with-a-phone-ca
