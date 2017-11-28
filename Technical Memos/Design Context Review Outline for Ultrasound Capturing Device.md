@@ -199,7 +199,6 @@ Ultrasound machines have had tremendous breakthroughs in the last few decades. E
 25. &quot;The Feynman Lectures On Physics Vol. II Ch. 38: Elasticity&quot;. 2017. _Feynmanlectures.Caltech.Edu_. http://www.feynmanlectures.caltech.edu/II\_38.html.
 
 26. Marshall Brain &quot;How Television Works&quot; 26 November 2006.
-
 HowStuffWorks.com. &lt;http://electronics.howstuffworks.com/tv.htm&gt; 17 September 2017
 
 27. Portable Ultrasound Machines - KPI Healthcare
