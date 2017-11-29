@@ -1,14 +1,14 @@
-> **DATE: October 14, 2017**
-> 
-> **TO: Dr. Wettergreen**
-> 
-> **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
-> 
-> **SUBJECT: Prototypes and Final Design Specifications for Ultrasound
-> Capturing Design**
-> 
-> **Variants of the Flipped Frame with Polarizing Lens and Screen
-> Protector**
+**DATE: October 14, 2017**
+
+**TO: Dr. Wettergreen**
+
+**FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
+
+**SUBJECT: Prototypes and Final Design Specifications for Ultrasound
+Capturing Design**
+
+**Variants of the Flipped Frame with Polarizing Lens and Screen
+Protector**
 
 The design goal for our project is to develop a physical device that can
 improve the quality of ultrasound photos taken by stabilization and
