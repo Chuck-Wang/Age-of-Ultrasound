@@ -33,8 +33,8 @@ timeline for the next month is displayed in the Gantt chart below (Table
 ![Screen Shot 2017-11-06 at 8.19.31 AM.png](media/image26.png)![Screen
 Shot 2017-11-06 at 8.21.40 AM.png](media/image27.png)
 
-![Screen Shot 2017-11-06 at 8.23.58 AM.png](media/image3.png)![Screen
-Shot 2017-11-06 at 8.26.58 AM.png](media/image28.png)
+![Screen Shot 2017-11-06 at 8.23.58 AM.png](media/image28.png)![Screen
+Shot 2017-11-06 at 8.26.58 AM.png](media/image29.png)
 
 **Overview of the Upcoming Three Prototypes to be Constructed**
 
