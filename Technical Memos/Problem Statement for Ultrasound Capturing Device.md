@@ -1,6 +1,6 @@
 **DATE: September 18, 2017**
 
-**TO: Dr. Wettergreen **
+**TO: Dr. Wettergreen**
 
 **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 
@@ -254,7 +254,7 @@ Countries**
       - Pixels are units of programmable color on an image or display or
         the smallest controllable element of a photo on a screen.
 
-**Standards and Regulations in The Target Markets **
+**Standards and Regulations in The Target Markets**
 
   - Regulations in India have stringent specifications on the use of
     ultrasound and restrict ultrasound use to primarily immobile
@@ -446,31 +446,20 @@ Countries**
 > http://www.feynmanlectures.caltech.edu/II\_38.html.
 > 
 > 26\. Marshall Brain "How Television Works" 26 November 2006.
-> 
 > HowStuffWorks.com. \<http://electronics.howstuffworks.com/tv.htm\> 17
 > September 2017
-
-27\. Portable Ultrasound Machines - KPI
-> Healthcare
-
+> 
+> 27\. Portable Ultrasound Machines - KPI Healthcare
 > <http://www.kpiultrasound.com/best-ultrasound-machine/portable-ultrasound-machines/>
-
-28\. WTF Just Happened: My Computer Monitor Looks Awful on Camera
-
+> 
+> 28\. WTF Just Happened: My Computer Monitor Looks Awful on Camera
 > Tim Moynihan -
 > <https://www.wired.com/2014/08/wtf-just-happened-my-computer-monitor-looks-awful-on-camera/>
-
-29\. Piazza, Tim. “Why do pictures of screens look weird?” *Quora*, 14
-Feb. 2017, www.quora.com/Why-do-pictures-of-screens-look-weird. Accessed
-23 Sept. 2017.
-
-30\. What's the best way to take a picture of an LCD or CRT
-> screen?
-
+> 
+> 29\. Piazza, Tim. “Why do pictures of screens look weird?” *Quora*, 14 Feb. 2017, www.quora.com/Why-do-pictures-of-screens-look-weird. Accessed 23 Sept. 2017.
+> 
+> 30\. What's the best way to take a picture of an LCD or CRT screen?
 > <https://photo.stackexchange.com/questions/21294/whats-the-best-way-to-take-a-picture-of-an-lcd-or-crt-screen>
-
-31\. How to best take a picture of a screen, like a computer monitor,
-with a phone
-> camera?
-
+> 
+> 31\. How to best take a picture of a screen, like a computer monitor, with a phonecamera?
 > https://photo.stackexchange.com/questions/24871/how-to-best-take-a-picture-of-a-screen-like-a-computer-monitor-with-a-phone-ca
