@@ -1,10 +1,10 @@
-> **DATE: November 4, 2017**
-> 
-> **TO: Dr. Wettergreen **
-> 
-> **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
-> 
-> **SUBJECT: Prototyping Timeline for Ultrasound Capturing Design**
+**DATE: November 4, 2017**
+
+**TO: Dr. Wettergreen**
+
+**FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
+
+**SUBJECT: Prototyping Timeline for Ultrasound Capturing Design**
 
 **Prototyping Timeline Overview**
 
@@ -30,13 +30,13 @@ timeline for the next month is displayed in the Gantt chart below (Table
 
 **Table 1: Prototyping Gantt Chart**
 
-![Screen Shot 2017-11-06 at 8.19.31 AM.png](media/image1.png)![Screen
-Shot 2017-11-06 at 8.21.40 AM.png](media/image2.png)
+![Screen Shot 2017-11-06 at 8.19.31 AM.png](media/image26.png)![Screen
+Shot 2017-11-06 at 8.21.40 AM.png](media/image27.png)
 
 ![Screen Shot 2017-11-06 at 8.23.58 AM.png](media/image3.png)![Screen
-Shot 2017-11-06 at 8.26.58 AM.png](media/image4.png)
+Shot 2017-11-06 at 8.26.58 AM.png](media/image28.png)
 
-> **Overview of the Upcoming Three Prototypes to be Constructed**
+**Overview of the Upcoming Three Prototypes to be Constructed**
 
 By the time of our final deadline, we will have two medium fidelity
 prototypes and one high fidelity prototype. The first medium fidelity
@@ -78,7 +78,7 @@ December 9, 2017.
 
 **Concurrents and Dependent Tasks**
 
-**Concurrent Tasks: **
+**Concurrent Tasks:**
 
 CAD models of our prototype will continue throughout our Prototype 1
 development, which is not dependant on our CAD models. In addition,
