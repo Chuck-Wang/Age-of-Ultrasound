@@ -9,9 +9,7 @@
 **Rationale for Weighting Design Criteria and Constraints**
 
 The criteria and constraints we started with at the beginning of the
-screening process were
-
-readability, durability, ease of use, affordability, and easy to learn.
+screening process were readability, durability, ease of use, affordability, and easy to learn.
 Our constraints were percent of the image that is the ultrasound screen,
 cleanable, and no magnetic components. To weigh our criteria we looked
 at the Pairwise Comparison Chart we created earlier and also how
@@ -332,7 +330,7 @@ could be tested using software made to test contrast.
 
 |                        |                                             |
 | ---------------------- | ------------------------------------------- |
-| **Readability Scale ** | **Value on the 8-bit Grayscale from 0-256** |
+| **Readability Scale** | **Value on the 8-bit Grayscale from 0-256** |
 | 5                      | 200-256                                     |
 | 4                      | 150-200                                     |
 | 3                      | 100-150                                     |
