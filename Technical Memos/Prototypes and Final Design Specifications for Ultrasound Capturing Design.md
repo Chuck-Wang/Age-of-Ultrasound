@@ -1,6 +1,6 @@
 > **DATE: October 14, 2017**
 > 
-> **TO: Dr. Wettergreen **
+> **TO: Dr. Wettergreen**
 > 
 > **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 > 
@@ -110,44 +110,44 @@ up their own weight and that they did not properly address the
 readability constraint as we could not hold up the design far enough
 from the screen for a phone to hypothetically take the desired photo.
 
-**2 Week Plan for Prototyping **
+**2 Week Plan for Prototyping**
 
 Starting from October 12th, we created a plan to complete two prototypes
 by October 20th. We developed a process to prototype and evaluate
 quickly so that we could test numerous low fidelity variations of our
 selected solution (Figure 10).
 
-![](media/image1.png)
+![](media/image15.png)
 
 Figure 10: Two-week Plan
 
 **Appendix**
 
-![IMG\_0115.PNG](media/image2.png)
+![IMG\_0115.PNG](media/image16.png)
 
 Figure 1: Side View Assembly Sketch of the Complete Solution
 
-![IMG\_0113.PNG](media/image3.png)
+![IMG\_0113.PNG](media/image17.png)
 
 Figure 2 : Top View of Clamp Design for the Ultrasound Machine Screen
 
-![IMG\_0113.PNG](media/image3.png)
+![IMG\_0113.PNG](media/image18.png)
 
 Figure 3: Front View of Clamp Design for the Ultrasound Machine Screen
 
-![](media/image4.png)
+![](media/image19.png)
 
 Figure 4: Top View of Horizontal Variable Arm from Clamp
 
-![](media/image5.png)
+![](media/image20.png)
 
 Figure 5: Front View of Vertical Adjustable Arms and Phone Clamp
 
-![IMG\_0117.PNG](media/image6.png)
+![IMG\_0117.PNG](media/image21.png)
 
 Figure 6: Side View of Polarizing Lens Clamp for Phone
 
-![](media/image7.png)
+![](media/image22.png)
 
 Figure 7: Front View of Adjustable Screen Protector for Ultrasound
 Machines
@@ -155,10 +155,10 @@ Machines
 **Low Fidelity
 Prototypes**
 
-![Screenshot\_20171013-231638.png](media/image8.png)![Screenshot\_20171013-231704.png](media/image9.png)
+![Screenshot\_20171013-231638.png](media/image23.png)![Screenshot\_20171013-231704.png](media/image24.png)
 
 Figures 8,9: Low Fidelity Prototype 1
 
-![](media/image10.png)
+![](media/image25.png)
 
 Figure 10: Low Fidelity Prototype 2
