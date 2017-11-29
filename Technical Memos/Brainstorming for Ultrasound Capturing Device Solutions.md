@@ -1,6 +1,6 @@
 **DATE: September 22, 2017**
 
-**TO: Dr. Wettergreen **
+**TO: Dr. Wettergreen**
 
 **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 
