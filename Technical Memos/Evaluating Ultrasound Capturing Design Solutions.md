@@ -1,15 +1,15 @@
-> **DATE: October 2, 2017**
-> 
-> **TO: Dr. Wettergreen **
-> 
-> **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
-> 
-> **SUBJECT: Evaluating Ultrasound Capturing Design Solutions**
-> 
-> **Rationale for Weighting Design Criteria and Constraints**
-> 
-> The criteria and constraints we started with at the beginning of the
-> screening process were
+**DATE: October 2, 2017**
+
+**TO: Dr. Wettergreen **
+
+**FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
+
+**SUBJECT: Evaluating Ultrasound Capturing Design Solutions**
+
+**Rationale for Weighting Design Criteria and Constraints**
+
+The criteria and constraints we started with at the beginning of the
+screening process were
 
 readability, durability, ease of use, affordability, and easy to learn.
 Our constraints were percent of the image that is the ultrasound screen,
@@ -38,7 +38,7 @@ scoring sets. Readability became 0.2 which assessed variety of grayscale
 present and anti-glare which became 0.2 to assess how well the solution
 reduces artifacting and glare.
 
-> **Ultrasound Capturing Design Solutions for Pugh Screening**
+**Ultrasound Capturing Design Solutions for Pugh Screening**
 
   - **Flipped Frame and Overlaying Protectors:** This solution is a
     mechanism for setting up the photo as well as reducing the glare.
@@ -161,34 +161,34 @@ In terms of our proposed solutions,
 
 **Mechanical Hinges with Overlaying Protectors - 3**
 
-> A mechanical hinge with an overlaying protector was determined to be
-> the standard and was given a score a 3. This is because the rotational
-> part of the apparatus will be made out of cheap plastic that can
-> survive a drop test from 3 feet to 5 feet but would break if dropped
-> from a height of greater than 5 feet
+A mechanical hinge with an overlaying protector was determined to be
+the standard and was given a score a 3. This is because the rotational
+part of the apparatus will be made out of cheap plastic that can
+survive a drop test from 3 feet to 5 feet but would break if dropped
+from a height of greater than 5 feet
 
 **Mirror with Flexible Legs - 1**
 
-> A mirror with flexible legs scored a 1. This is because the mirror is
-> made of glass and will likely shatter if dropped from 1 feet in the
-> air.
+A mirror with flexible legs scored a 1. This is because the mirror is
+made of glass and will likely shatter if dropped from 1 feet in the
+air.
 
 **Pyramid and Clip on Frame Screen - 2**
 
-> The pyramid shaped clip-on frame and lens scored a 2 because the lens
-> will likely survive a drop from 1 feet, however will not be functional
-> if dropped between 2 feet and 3feet
+The pyramid shaped clip-on frame and lens scored a 2 because the lens
+will likely survive a drop from 1 feet, however will not be functional
+if dropped between 2 feet and 3feet
 
 **Flipped Frame and Overlaying Protectors - 4 & Flipped Frame with
 Screen Protector - 4**
 
-> Both a flipped frame with an overlaying protector and a flipped frame
-> with a screen protector scored a 4. This is because the hinges of a
-> flipped frame will be made of metal. This would mean that it would
-> survive a drop test from any height. However, the delicate material of
-> a overlaying/screen protector has potential of breaking if dropped
-> from a height between 5 feet and 7 feet For this reason, the overall
-> score for both apparatuses was given a 4.
+Both a flipped frame with an overlaying protector and a flipped frame
+with a screen protector scored a 4. This is because the hinges of a
+flipped frame will be made of metal. This would mean that it would
+survive a drop test from any height. However, the delicate material of
+a overlaying/screen protector has potential of breaking if dropped
+from a height between 5 feet and 7 feet For this reason, the overall
+score for both apparatuses was given a 4.
 
 **Justification for Ease of Use**
 
@@ -213,48 +213,48 @@ developed our scale as follows in Table 3.
 
 **Flipped Frame and Overlaying Protectors - 3**
 
-> The flipped frame and overlaying protector was given a score of 3.
-> Because the flipped frame works in a single movement coming from the
-> top of the ultrasound machine, and the overlaying protector consists
-> of multiple layers that need to be adjusted the maximum setup time was
-> dictated to be approximately 30-45 seconds, giving us the range
-> dictated in category 3.
+The flipped frame and overlaying protector was given a score of 3.
+Because the flipped frame works in a single movement coming from the
+top of the ultrasound machine, and the overlaying protector consists
+of multiple layers that need to be adjusted the maximum setup time was
+dictated to be approximately 30-45 seconds, giving us the range
+dictated in category 3.
 
 **Mechanical Hinges with Overlaying Protectors - 3**
 
-> The mechanical hinges and overlaying protector was given a score of 3.
-> It works in a very similar fashion to the flipped frame and overlaying
-> protector by simply instead having a hinge that comes from the side of
-> the ultrasound machine. Because the hinge works in a single movement
-> coming from the top of the ultrasound machine, and the overlaying
-> protector consists of multiple layers that need to be adjusted the
-> maximum setup time was dictated to be approximately 30-45 seconds,
-> giving us the range dictated in category 3.
+The mechanical hinges and overlaying protector was given a score of 3.
+It works in a very similar fashion to the flipped frame and overlaying
+protector by simply instead having a hinge that comes from the side of
+the ultrasound machine. Because the hinge works in a single movement
+coming from the top of the ultrasound machine, and the overlaying
+protector consists of multiple layers that need to be adjusted the
+maximum setup time was dictated to be approximately 30-45 seconds,
+giving us the range dictated in category 3.
 
 **Flipped Frame with Screen Protector - 4**
 
-> The flipped frame and screen protector was given a score of 3. The
-> flipped frame works in a single motion as expressed above, however
-> instead of the overlaying protector the screen protector needs no
-> adjustment. Therefore maximum setup time was dictated to be
-> approximately 15 seconds, giving us the range dictated in category 4.
+The flipped frame and screen protector was given a score of 3. The
+flipped frame works in a single motion as expressed above, however
+instead of the overlaying protector the screen protector needs no
+adjustment. Therefore maximum setup time was dictated to be
+approximately 15 seconds, giving us the range dictated in category 4.
 
 **Pyramid and Clip on Frame Screen - 2**
 
-> The pyramid and clip on frame screen was given a score of 2. The
-> pyramid design of the system calls for an extension movement, and the
-> clip design requires user defined movement to capture the image. These
-> two movements are more complex than the flipped frame and mechanical
-> hinges therefore it was dictated that maximum setup time be at least a
-> minute, giving us the range in category 2.
+The pyramid and clip on frame screen was given a score of 2. The
+pyramid design of the system calls for an extension movement, and the
+clip design requires user defined movement to capture the image. These
+two movements are more complex than the flipped frame and mechanical
+hinges therefore it was dictated that maximum setup time be at least a
+minute, giving us the range in category 2.
 
 **Mirror with Flexible Legs - 1**
 
-> The Mirror with Flexible Legs was given a score of 1. Because the
-> flexible leg design and the mirror angle adjustment need to be set up
-> by the user, and the mirror angle adjustment that needs to be user
-> setup, the design was dictated to take at least 1 minute to 1.5
-> minutes to set up, giving us a range in category 1.
+The Mirror with Flexible Legs was given a score of 1. Because the
+flexible leg design and the mirror angle adjustment need to be set up
+by the user, and the mirror angle adjustment that needs to be user
+setup, the design was dictated to take at least 1 minute to 1.5
+minutes to set up, giving us a range in category 1.
 
 **Justification for Affordability Scores**
 
@@ -284,33 +284,33 @@ cost of our design solution.
 
 **Flipped Frame and Overlaying Protectors - 5**
 
-> The design solution with a flipped frame and overlaying protector
-> receive a score of 5 because the manufacturing cost for flipped frame
-> and screen protector are lower than 2$ respectively.
+The design solution with a flipped frame and overlaying protector
+receive a score of 5 because the manufacturing cost for flipped frame
+and screen protector are lower than 2$ respectively.
 
 **Mechanical Hinges with Overlaying Protectors - 5**
 
-> Design solution with mechanical hinges and overlaying protectors also
-> receive a score of 5 since mechanical hinges can be manufactured for
-> lower than 3$ per piece.
+Design solution with mechanical hinges and overlaying protectors also
+receive a score of 5 since mechanical hinges can be manufactured for
+lower than 3$ per piece.
 
 **Flipped Frame with Screen Protector - 3**
 
-> The combined design of flipped screen and screen protector received a
-> score of 3 because a screen protector with adhesive that is required
-> in this design costs around 10$ to manufacture.
+The combined design of flipped screen and screen protector received a
+score of 3 because a screen protector with adhesive that is required
+in this design costs around 10$ to manufacture.
 
 **Pyramid and Clip on Frame Screen - 2**
 
-> The pyramid shaped clip-on frame with a lens received a score of 2
-> because, while the pyramid-shaped frame cost around 10$ to
-> manufacture, incised polarized lens costs around 5$ - 10$.
+The pyramid shaped clip-on frame with a lens received a score of 2
+because, while the pyramid-shaped frame cost around 10$ to
+manufacture, incised polarized lens costs around 5$ - 10$.
 
 **Mirror with Flexible Legs - 4**
 
-> The solution with a Mirror with Flexible Legs received a score of 4
-> because it can be manufactured for a total cost of around 8$. Because
-> mirror and flexible legs each take about 4$ to manufacture.
+The solution with a Mirror with Flexible Legs received a score of 4
+because it can be manufactured for a total cost of around 8$. Because
+mirror and flexible legs each take about 4$ to manufacture.
 
 **Justification for Readability Values**
 
@@ -339,47 +339,47 @@ could be tested using software made to test contrast.
 | 2                      | 50-100                                      |
 | 1                      | 0-50                                        |
 
-> **Flipped Frame with Overlaying Screen Protector - 2 **
-> 
-> Overlaying protectors reduces the variance in colors presented so the
-> grayscale value would be between 50-100. This depends on how dark the
-> filter selected is.
-> 
-> **Mechanical Hinges with Overlaying Protector - 2 **
-> 
-> The overlaying protector with mechanical hinges would reduce glare but
-> faces a similar problem as the screen protector with flip on frame and
-> polarizing lens. The overlaying protector contains not only a
-> anti-glare sheet but also sheets to adjust color darkness. Using a
-> darker filter with a anti-glare filter would decrease the number of
-> whites present and change what the ultrasound would read.
-> 
-> **Screen Protector with Flip on Frame and Polarizing Lens - 3**
-> 
-> The screen protector with flip on frame and polarizing lens received a
-> 3 on the scale, containing 100 to 150 of the 256 possible gray values
-> due to the screen protector being added. Although the screen protector
-> would reduce glare on glossy CRT screens, it can also adjust the
-> colors presented on the screen at certain angles.
-> 
-> **Light adjusting Pyramid with clip on frame - 4 **
-> 
-> With a pyramid using a clip on frame, the readability would be from
-> 150-200 due to the pyramid blocking excess light. This puts the load
-> of ensuring the color is accurate on the camera and since there is a
-> large variance of cameras being used, could darken the image too much
-> or over brighten it by reducing light through the pyramid and then
-> brightening it through software.
-> 
-> **Mirror with flexible legs - 5 **
-> 
-> 5 is defined as containing 200 to 256 of the 256 possible shades on
-> the grayscale. This value is subject to the quality of the screen that
-> the ultrasound is produced on but because we are reflecting the image
-> and taking the photo from that image, the color adjustment should be
-> 0. Since there is nothing filtering the output from the original
-> screen, the photo produced by this solution would contain most of the
-> grayscale.
+**Flipped Frame with Overlaying Screen Protector - 2 **
+
+Overlaying protectors reduces the variance in colors presented so the
+grayscale value would be between 50-100. This depends on how dark the
+filter selected is.
+
+**Mechanical Hinges with Overlaying Protector - 2 **
+
+The overlaying protector with mechanical hinges would reduce glare but
+faces a similar problem as the screen protector with flip on frame and
+polarizing lens. The overlaying protector contains not only a
+anti-glare sheet but also sheets to adjust color darkness. Using a
+darker filter with a anti-glare filter would decrease the number of
+whites present and change what the ultrasound would read.
+
+**Screen Protector with Flip on Frame and Polarizing Lens - 3**
+
+The screen protector with flip on frame and polarizing lens received a
+3 on the scale, containing 100 to 150 of the 256 possible gray values
+due to the screen protector being added. Although the screen protector
+would reduce glare on glossy CRT screens, it can also adjust the
+colors presented on the screen at certain angles.
+
+**Light adjusting Pyramid with clip on frame - 4 **
+
+With a pyramid using a clip on frame, the readability would be from
+150-200 due to the pyramid blocking excess light. This puts the load
+of ensuring the color is accurate on the camera and since there is a
+large variance of cameras being used, could darken the image too much
+or over brighten it by reducing light through the pyramid and then
+brightening it through software.
+
+**Mirror with flexible legs - 5 **
+
+5 is defined as containing 200 to 256 of the 256 possible shades on
+the grayscale. This value is subject to the quality of the screen that
+the ultrasound is produced on but because we are reflecting the image
+and taking the photo from that image, the color adjustment should be
+0. Since there is nothing filtering the output from the original
+screen, the photo produced by this solution would contain most of the
+grayscale.
 
 **Justification for Anti-Glare Values**
 
@@ -405,41 +405,41 @@ Scale**
 | 2                    | From 80% to 85%                                                         |
 | 1                    | Less than 80%                                                           |
 
-> **Flipped Frame with Overlaying Screen Protector - 2 **
-> 
-> The flipped frame with overlaying protector received a 2 on the scale
-> for anti-glare because although it incorporates the overlaying screen
-> protectors, the number of filters that need to be used increase the
-> number of points where light can diffuse and refract increasing the
-> possibility for glare.
-> 
-> **Mechanical Hinges with Overlaying Protector - 2 **
-> 
-> The mechanical hinges with overlaying protector received the same
-> score for the same reasons as the flipped frame. Since a overlaying
-> protector introduces many more points where light can diffract, the
-> reduction of glare would be minimal.
-> 
-> **Screen Protector with Flip on Frame and Polarizing Lens - 4 **
-> 
-> This solution received a 4 for anti-glare because it not only has a
-> polarizing lens on the mobile device that is taking the photo but a
-> matte screen protector to reduce glare. With 2 methods of glare
-> removal most of the image will be glare-free.
-> 
-> **Light adjusting Pyramid with clip on frame - 4 **
-> 
-> The pyramid with a clip on frame received a 4 because since the
-> pyramid can adjust the light entering the frame of the photo, the
-> light being projected onto the screen can be controlled to minimize
-> glare.
-> 
-> **Mirror with Flexible Legs - 5 **
-> 
-> The mirror method received the highest score because since it is
-> easiest to just move the mirror to an angle/position that has no
-> glare, it should reduce glare by a significant amount for most photos
-> taken.
+**Flipped Frame with Overlaying Screen Protector - 2 **
+
+The flipped frame with overlaying protector received a 2 on the scale
+for anti-glare because although it incorporates the overlaying screen
+protectors, the number of filters that need to be used increase the
+number of points where light can diffuse and refract increasing the
+possibility for glare.
+
+**Mechanical Hinges with Overlaying Protector - 2 **
+
+The mechanical hinges with overlaying protector received the same
+score for the same reasons as the flipped frame. Since a overlaying
+protector introduces many more points where light can diffract, the
+reduction of glare would be minimal.
+
+**Screen Protector with Flip on Frame and Polarizing Lens - 4 **
+
+This solution received a 4 for anti-glare because it not only has a
+polarizing lens on the mobile device that is taking the photo but a
+matte screen protector to reduce glare. With 2 methods of glare
+removal most of the image will be glare-free.
+
+**Light adjusting Pyramid with clip on frame - 4 **
+
+The pyramid with a clip on frame received a 4 because since the
+pyramid can adjust the light entering the frame of the photo, the
+light being projected onto the screen can be controlled to minimize
+glare.
+
+**Mirror with Flexible Legs - 5 **
+
+The mirror method received the highest score because since it is
+easiest to just move the mirror to an angle/position that has no
+glare, it should reduce glare by a significant amount for most photos
+taken.
 
 **Justification for Easy to Learn Scores**
 
@@ -466,46 +466,46 @@ The key component of our scoring logic included that the greater the
 number of components or scientific complexity, the lesser the chance
 that the user will feel that the product is easy to learn.
 
-> **Flipped Frame with Overlaying Screen Protector - 2 **
-> 
-> The flipped frame with overlaying protector received a 5 because it
-> has the maximum technical simplicity and minimum number of components.
-> 
-> **Mechanical Hinges with Overlaying Protector - 4 **
-> 
-> The mechanical hinges with overlaying protector received a 4 because
-> although it has a greater number of components , but it also is
-> extremely simple to learn.
-> 
-> **Screen Protector with Flip on Frame and Polarizing Lens - 5 **
-> 
-> It has a similar technical simplicity and similar number of
-> components.
-> 
-> **Light adjusting Pyramid with clip on frame - 3 **
-> 
-> We believe that a pyramid with a clip on frame will require more
-> adjustments every time it is set up and needs more instructions to
-> optimise picture quality, hence it receives a score of 3.
-> 
-> **Mirror with flexible legs - 3 **
-> 
-> The mirror method also requires significant adjustments which far
-> outweigh its simplicity, and it also receives a score of 3.
-> 
-> We therefore determined the Flipped Frame+Screen based solutions have
-> maximum overall technical simplicity, followed by the Mechanical
-> Hinges based design solution, followed by Pyramid and Mirror based
-> solutions.
+**Flipped Frame with Overlaying Screen Protector - 2 **
 
-![](media/image1.png)
+The flipped frame with overlaying protector received a 5 because it
+has the maximum technical simplicity and minimum number of components.
+
+**Mechanical Hinges with Overlaying Protector - 4 **
+
+The mechanical hinges with overlaying protector received a 4 because
+although it has a greater number of components , but it also is
+extremely simple to learn.
+
+**Screen Protector with Flip on Frame and Polarizing Lens - 5 **
+
+It has a similar technical simplicity and similar number of
+components.
+
+**Light adjusting Pyramid with clip on frame - 3 **
+
+We believe that a pyramid with a clip on frame will require more
+adjustments every time it is set up and needs more instructions to
+optimise picture quality, hence it receives a score of 3.
+
+**Mirror with flexible legs - 3 **
+
+The mirror method also requires significant adjustments which far
+outweigh its simplicity, and it also receives a score of 3.
+
+We therefore determined the Flipped Frame+Screen based solutions have
+maximum overall technical simplicity, followed by the Mechanical
+Hinges based design solution, followed by Pyramid and Mirror based
+solutions.
+
+![](media/image12.png)
 
 **Figure 1: Screening Anti Glare**
 
-![](media/image2.png)
+![](media/image13.png)
 
 **Figure 2: Screening Stabilizing Mechanisms**
 
-![](media/image3.png)
+![](media/image14.png)
 
 **Figure 3: Morph Chart for Stabilizing and Anti-Glare Solutions**
