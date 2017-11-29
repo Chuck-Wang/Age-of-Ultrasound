@@ -149,43 +149,43 @@ solution.
 
 **Appendix: Design Scratch**
 
-![](media/image10.png)
+![](media/image2.png)
 
 Figure 1: Mounting design that provides equal light
 
-![](media/image12.png)
+![](media/image3.png)
 
 Figure 2: Capture image from reflection of a mirror or glass
 
-![](media/image8.png)
+![](media/image4.png)
 
 Figure 3: Mechanism to hang mobile phone using hinges to fold out and
 hook
 
-![](media/image11.png)
+![](media/image5.png)
 
 Figure 4: Frame design with a phone clip
 
-![](media/image9.png)
+![](media/image6.png)
 
 Figure 5: Frame design that can be flipped over machine
 
-![](media/image18.png)
+![](media/image7.png)
 
 Figure 6: Adjustable frame design
 
-![](media/image13.png)
+![](media/image8.png)
 
 Figure 7: Frame design with splicing joints
 
-![](media/image19.png)
+![](media/image9.png)
 
 Figure 8: Frame design with bottom stands
 
-![](media/image17.png)
+![](media/image10.png)
 
 Figure 9: Capturing solution with phone mounted on top of the screen
 
-![](media/image20.png)
+![](media/image11.png)
 
 Figure 10: Frame design with flexible stands
