@@ -1,6 +1,6 @@
 **DATE: October 2, 2017**
 
-**TO: Dr. Wettergreen **
+**TO: Dr. Wettergreen**
 
 **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 
@@ -339,13 +339,13 @@ could be tested using software made to test contrast.
 | 2                      | 50-100                                      |
 | 1                      | 0-50                                        |
 
-**Flipped Frame with Overlaying Screen Protector - 2 **
+**Flipped Frame with Overlaying Screen Protector - 2**
 
 Overlaying protectors reduces the variance in colors presented so the
 grayscale value would be between 50-100. This depends on how dark the
 filter selected is.
 
-**Mechanical Hinges with Overlaying Protector - 2 **
+**Mechanical Hinges with Overlaying Protector - 2**
 
 The overlaying protector with mechanical hinges would reduce glare but
 faces a similar problem as the screen protector with flip on frame and
@@ -362,7 +362,7 @@ due to the screen protector being added. Although the screen protector
 would reduce glare on glossy CRT screens, it can also adjust the
 colors presented on the screen at certain angles.
 
-**Light adjusting Pyramid with clip on frame - 4 **
+**Light adjusting Pyramid with clip on frame - 4**
 
 With a pyramid using a clip on frame, the readability would be from
 150-200 due to the pyramid blocking excess light. This puts the load
@@ -371,7 +371,7 @@ large variance of cameras being used, could darken the image too much
 or over brighten it by reducing light through the pyramid and then
 brightening it through software.
 
-**Mirror with flexible legs - 5 **
+**Mirror with flexible legs - 5**
 
 5 is defined as containing 200 to 256 of the 256 possible shades on
 the grayscale. This value is subject to the quality of the screen that
@@ -405,7 +405,7 @@ Scale**
 | 2                    | From 80% to 85%                                                         |
 | 1                    | Less than 80%                                                           |
 
-**Flipped Frame with Overlaying Screen Protector - 2 **
+**Flipped Frame with Overlaying Screen Protector - 2**
 
 The flipped frame with overlaying protector received a 2 on the scale
 for anti-glare because although it incorporates the overlaying screen
@@ -413,28 +413,28 @@ protectors, the number of filters that need to be used increase the
 number of points where light can diffuse and refract increasing the
 possibility for glare.
 
-**Mechanical Hinges with Overlaying Protector - 2 **
+**Mechanical Hinges with Overlaying Protector - 2**
 
 The mechanical hinges with overlaying protector received the same
 score for the same reasons as the flipped frame. Since a overlaying
 protector introduces many more points where light can diffract, the
 reduction of glare would be minimal.
 
-**Screen Protector with Flip on Frame and Polarizing Lens - 4 **
+**Screen Protector with Flip on Frame and Polarizing Lens - 4**
 
 This solution received a 4 for anti-glare because it not only has a
 polarizing lens on the mobile device that is taking the photo but a
 matte screen protector to reduce glare. With 2 methods of glare
 removal most of the image will be glare-free.
 
-**Light adjusting Pyramid with clip on frame - 4 **
+**Light adjusting Pyramid with clip on frame - 4**
 
 The pyramid with a clip on frame received a 4 because since the
 pyramid can adjust the light entering the frame of the photo, the
 light being projected onto the screen can be controlled to minimize
 glare.
 
-**Mirror with Flexible Legs - 5 **
+**Mirror with Flexible Legs - 5**
 
 The mirror method received the highest score because since it is
 easiest to just move the mirror to an angle/position that has no
@@ -466,29 +466,29 @@ The key component of our scoring logic included that the greater the
 number of components or scientific complexity, the lesser the chance
 that the user will feel that the product is easy to learn.
 
-**Flipped Frame with Overlaying Screen Protector - 2 **
+**Flipped Frame with Overlaying Screen Protector - 2**
 
 The flipped frame with overlaying protector received a 5 because it
 has the maximum technical simplicity and minimum number of components.
 
-**Mechanical Hinges with Overlaying Protector - 4 **
+**Mechanical Hinges with Overlaying Protector - 4**
 
 The mechanical hinges with overlaying protector received a 4 because
 although it has a greater number of components , but it also is
 extremely simple to learn.
 
-**Screen Protector with Flip on Frame and Polarizing Lens - 5 **
+**Screen Protector with Flip on Frame and Polarizing Lens - 5**
 
 It has a similar technical simplicity and similar number of
 components.
 
-**Light adjusting Pyramid with clip on frame - 3 **
+**Light adjusting Pyramid with clip on frame - 3**
 
 We believe that a pyramid with a clip on frame will require more
 adjustments every time it is set up and needs more instructions to
 optimise picture quality, hence it receives a score of 3.
 
-**Mirror with flexible legs - 3 **
+**Mirror with flexible legs - 3**
 
 The mirror method also requires significant adjustments which far
 outweigh its simplicity, and it also receives a score of 3.
