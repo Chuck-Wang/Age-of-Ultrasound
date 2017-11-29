@@ -1,12 +1,12 @@
 **DATE: November 10, 2017**
 
-**TO: Dr. Wettergreen **
+**TO: Dr. Wettergreen**
 
 **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 
 **SUBJECT: Testing Methods for Ultrasound Capturing Device**
 
-**Methods to Evaluate our Ultrasound Capturing Device **
+**Methods to Evaluate our Ultrasound Capturing Device**
 
 We will be evaluating our design solution based on 5 key design
 criteria. Our first design criteria is Easy to Learn, which evaluates
@@ -34,10 +34,10 @@ Objectives**
 
 |                      |                                                              |                                                                     |                                                 |                                    |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- |
-| **Design Criteria ** | **Method of Measurement**                                    | **Number of Repetitions**                                           | **Test conductor **                             | **Criteria/Variable Measured**     |
+| **Design Criteria** | **Method of Measurement**                                    | **Number of Repetitions**                                           | **Test conductor**                             | **Criteria/Variable Measured**     |
 | **Easy to Learn**    | Use questionnaire based on User Defined Scale                | 10                                                                  | Healthcare workers                              | User Defined Scale (1-5)           |
 | **Readability**      | Use MATLAB Image Analysis Toolkit to measure grayscale value | Once every image for 10 images and a final consultation with client | Design team                                     | Gray Scale Value                   |
-| **Readability **     | Panel of Specialists                                         | 5                                                                   | Design team                                     | Improved image/more readable image |
+| **Readability**     | Panel of Specialists                                         | 5                                                                   | Design team                                     | Improved image/more readable image |
 | **Anti-Glare**       | Measure the area of the photo that is artifact free          | Once every image, for 10 different images                           | Design Team                                     | Percent of whole screen            |
 | **Easy to Use**      | Use timer to measure time taken to set up apparatus          | 10                                                                  | Same group of healthcare workers as Easy to Use | Time (seconds)                     |
 | **Durability**       | Drop test from 5 feet                                        | 5                                                                   | Design team                                     | Number of Structural Defects       |
@@ -142,17 +142,14 @@ Learn**
 
 |              |                                                                |
 | ------------ | -------------------------------------------------------------- |
-| **Ranking ** | **Scale for Easy to Learn**                                    |
+| **Ranking** | **Scale for Easy to Learn**                                    |
 | 5            | Only requires a diagram to learn how to use                    |
 | 4            | Requires step by step walkthrough                              |
 | 3            | Requires multiple sets of instructions and diagrams to explain |
 | 2            | Requires multiple people to understand how to setup            |
 | 1            | Instructions and multiple people still unable to setup device  |
 
-![](media/image1.png)![](media/image2.png)
+![](media/image30.png)![](media/image31.png)
+![](media/image32.png)![](media/image33.png)
 
 **Figure 1: Gantt Chart for Project Timeline**
-
-![](media/image3.png)![](media/image4.png)
-
-**Figure 1 - continued: Gantt Chart for Project Timeline**
