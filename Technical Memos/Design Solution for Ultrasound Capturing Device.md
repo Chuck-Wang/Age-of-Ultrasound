@@ -152,7 +152,7 @@ ratios.
 **Table 1: Tests and Results Solutions for Design
 Objectives**
 
-| **Design Criteria **        | **Method of Measurement**                                    | **Number of Repetitions**                                          | **Test conductor**                             | **Criteria/Variable Measured**                                                    |
+| **Design Criteria**        | **Method of Measurement**                                    | **Number of Repetitions**                                          | **Test conductor**                             | **Criteria/Variable Measured**                                                    |
 | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Easy to Learn**           | Use questionnaire based on User Defined Scale                | 10                                                                 | Healthcare workers                              | User Defined Scale (1-5)                                                          |
 | **Grayscale: Readability**  | Use MATLAB Image Analysis Toolkit to measure grayscale value | Once every image for 5 images and a final consultation with client | Design team                                     | Average grayscale value derived from the matrix of gray values of the image taken |
