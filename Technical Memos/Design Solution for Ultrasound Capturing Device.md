@@ -1,6 +1,6 @@
 **DATE: December 9, 2017**
 
-**TO: Dr. Wettergreen **
+**TO: Dr. Wettergreen**
 
 **FROM: Age of Ultrasound (ageofultrasound@gmail.com)**
 
@@ -152,11 +152,11 @@ ratios.
 **Table 1: Tests and Results Solutions for Design
 Objectives**
 
-| **Design Criteria **        | **Method of Measurement**                                    | **Number of Repetitions**                                          | **Test conductor **                             | **Criteria/Variable Measured**                                                    |
+| **Design Criteria **        | **Method of Measurement**                                    | **Number of Repetitions**                                          | **Test conductor**                             | **Criteria/Variable Measured**                                                    |
 | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Easy to Learn**           | Use questionnaire based on User Defined Scale                | 10                                                                 | Healthcare workers                              | User Defined Scale (1-5)                                                          |
 | **Grayscale: Readability**  | Use MATLAB Image Analysis Toolkit to measure grayscale value | Once every image for 5 images and a final consultation with client | Design team                                     | Average grayscale value derived from the matrix of gray values of the image taken |
-| **Readability **            | Panel of Specialists                                         | 5                                                                  | Design team                                     | Improved image/more readable image                                                |
+| **Readability**            | Panel of Specialists                                         | 5                                                                  | Design team                                     | Improved image/more readable image                                                |
 | **Anti-Glare: Readability** | Measure the area of the photo that is artifact free          | Once every image, for 5 different images                           | Design Team                                     | Percent of whole screen                                                           |
 | **Easy to Use**             | Use timer to measure time taken to set up apparatus          | 10                                                                 | Same group of healthcare workers as Easy to Use | Time (seconds)                                                                    |
 | **Durability**              | Drop test from 5 feet                                        | 5                                                                  | Design team                                     | Number of Structural Defects                                                      |
@@ -165,11 +165,11 @@ Objectives**
 **Table 2: Testing
 Results**
 
-| **Design Criteria **        | **Goal**                                        | **Testing Data**         | **Result**     |
+| **Design Criteria**        | **Goal**                                        | **Testing Data**         | **Result**     |
 | --------------------------- | ----------------------------------------------- | ------------------------ | -------------- |
 | **Easy to Learn**           | 4 or higher on user defined scale               | 4                        | Satisfactory   |
 | **Grayscale: Readability**  | Average grayscale value difference more than 10 | 16                       | Satisfactory   |
-| **Readability **            | Image improved judged by specialist             | Image quality improved   | Satisfactory   |
+| **Readability**            | Image improved judged by specialist             | Image quality improved   | Satisfactory   |
 | **Anti-Glare: Readability** | More than 85% glare free                        | More than 95% glare free | Satisfactory   |
 | **Easy to Use**             | Take less than 5 minutes to set up              | 3 minutes to set up      | Satisfactory   |
 | **Durability**              | Survive 5 drop test from 5 feet                 | Failed on 2nd drop       | Unsatisfactory |
@@ -193,30 +193,30 @@ Solution**
 
 **Diagrams and Drawings**
 
-**Figure 1: Testing Design Solution**![](media/image16.png)
+**Figure 1: Testing Design Solution**![](media/image34.png)
 
 **Figure 2: Design Solution with Labeled
-Components**![](media/image7.png)
+Components**![](media/image35.png)
 
-**Figure 3: Design Solution using CAD**![](media/image13.png)
+**Figure 3: Design Solution using CAD**![](media/image36.png)
 
-![](media/image14.png)
+![](media/image37.png)
 
 **Figure 4: Linear Slide**
 
-![](media/image8.png)
+![](media/image38.png)
 
 **Figure 5: Linear Slide Holder**
 
-![](media/image10.png)
+![](media/image39.png)
 
 **Figure 6: Vertical Adjustment Component**
 
-![](media/image9.png)
+![](media/image40.png)
 
 **Figure 7: Horizontal Clamp Mount**
 
-![](media/image15.png)
+![](media/image41.png)
 
 **Figure 8: Horizontal Stabilizing Component**
 
